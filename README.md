@@ -11,7 +11,7 @@ Ref:
 `https://cas-bridge.xethub.hf.co/xet-bridge-us/6893a98c68b00fe99f3c65d7/d779b1a2a8ce68a82b9d7453116f4a53b344479790650a98d4769b22d28c9609?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=cas%2F20251209%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251209T114524Z&X-Amz-Expires=3600&X-Amz-Signature=04e0d6128da4d5c60e045291b615c50d1ee6662534d443ed8b98692360e2a23b&X-Amz-SignedHeaders=host&X-Xet-Cas-Uid=public&response-content-disposition=attachment%3B+filename*%3DUTF-8%27%27Qwen3-4B-Thinking-2507-Q4_K_M.gguf%3B+filename%3D%22Qwen3-4B-Thinking-2507-Q4_K_M.gguf%22%3B&x-id=GetObject&Expires=1765284324&Policy=eyJTdGF0ZW1lbnQiOlt7IkNvbmRpdGlvbiI6eyJEYXRlTGVzc1RoYW4iOnsiQVdTOkVwb2NoVGltZSI6MTc2NTI4NDMyNH19LCJSZXNvdXJjZSI6Imh0dHBzOi8vY2FzLWJyaWRnZS54ZXRodWIuaGYuY28veGV0LWJyaWRnZS11cy82ODkzYTk4YzY4YjAwZmU5OWYzYzY1ZDcvZDc3OWIxYTJhOGNlNjhhODJiOWQ3NDUzMTE2ZjRhNTNiMzQ0NDc5NzkwNjUwYTk4ZDQ3NjliMjJkMjhjOTYwOSoifV19&Signature=WvCECP9G2d5%7E9VId1dgUReFPA45hZ1O6ouh1MDQvhmgtUXotmn9jBwRwNvw8NdCIzO3XEWpkPWyGwSpRikzG0MpV8GAO4jcg5ik3or4WZmJMBneZ7QDTyxu7usXgVleUjIGpGolpFSYSU74S3UoGGO2MES0oP6zuxU7cKuGtDQ2NC5S5%7ERppbyrGAtL8ClIiGjCrsd96SbyTcCwe%7EfVObnMWXbn6sgenEdR4UdI5grEmucSecjwLHN%7Eg1rBPAh8SS9fsTOJ20SvcY9bVOfJED%7EWg-JWpc0rI1%7Eswd54GRWhKSAp496Nr46f9F-DasrDq12ttw4BBYwZsVj8o4mzIeA__&Key-Pair-Id=K2L8F4GPSG1IFC`
 
 
-- Follow the screenshot-ed steps
+- Follow the steps inside "https://developers.redhat.com/articles/2025/09/18/reach-native-speed-macos-llamacpp-container-inference"; If you are lost, you probably need to refer to these screenshots to locate the buttons in the Podman desktop UI interface:
 
 <img width="1380" height="1043" alt="image" src="https://github.com/user-attachments/assets/f747aa56-ea0f-40e3-a3f4-8987b5a9349a" />
 
